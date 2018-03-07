@@ -1,0 +1,16 @@
+c:\users\adam\documents\visual studio 2015\Projects\TS HSBC\TS HSBC\bin\Debug\chromedriver.exe
+c:\users\adam\documents\visual studio 2015\Projects\TS HSBC\TS HSBC\bin\Debug\App.config
+c:\users\adam\documents\visual studio 2015\Projects\TS HSBC\TS HSBC\bin\Debug\TS HSBC.dll.config
+c:\users\adam\documents\visual studio 2015\Projects\TS HSBC\TS HSBC\bin\Debug\TS HSBC.dll
+c:\users\adam\documents\visual studio 2015\Projects\TS HSBC\TS HSBC\bin\Debug\TS HSBC.pdb
+c:\users\adam\documents\visual studio 2015\Projects\TS HSBC\TS HSBC\bin\Debug\NLog.dll
+c:\users\adam\documents\visual studio 2015\Projects\TS HSBC\TS HSBC\bin\Debug\nunit.framework.dll
+c:\users\adam\documents\visual studio 2015\Projects\TS HSBC\TS HSBC\bin\Debug\WebDriver.dll
+c:\users\adam\documents\visual studio 2015\Projects\TS HSBC\TS HSBC\bin\Debug\WebDriver.Support.dll
+c:\users\adam\documents\visual studio 2015\Projects\TS HSBC\TS HSBC\bin\Debug\NLog.xml
+c:\users\adam\documents\visual studio 2015\Projects\TS HSBC\TS HSBC\bin\Debug\nunit.framework.xml
+c:\users\adam\documents\visual studio 2015\Projects\TS HSBC\TS HSBC\bin\Debug\WebDriver.xml
+c:\users\adam\documents\visual studio 2015\Projects\TS HSBC\TS HSBC\bin\Debug\WebDriver.Support.xml
+c:\users\adam\documents\visual studio 2015\Projects\TS HSBC\TS HSBC\obj\Debug\TS HSBC.dll
+c:\users\adam\documents\visual studio 2015\Projects\TS HSBC\TS HSBC\obj\Debug\TS HSBC.pdb
+C:\Users\Adam\documents\visual studio 2015\Projects\TS HSBC\TS HSBC\obj\Debug\TS HSBC.csprojResolveAssemblyReference.cache
